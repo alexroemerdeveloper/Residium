@@ -9,6 +9,5 @@ Video streaming / VoIP Calls  / Smart Home / UIKit / PEEK & POP / Multiple windo
 ![Dashboard](https://github.com/alexroemerdeveloper/Residium/blob/master/06.png)
 ![Dashboard](https://github.com/alexroemerdeveloper/Residium/blob/master/08.png)
 ![Dashboard](https://github.com/alexroemerdeveloper/Residium/blob/master/09.png)
-![Dashboard](https://github.com/alexroemerdeveloper/Residium/blob/master/10.png)
 ![Dashboard](https://github.com/alexroemerdeveloper/Residium/blob/master/11.png)
 ![Dashboard](https://github.com/alexroemerdeveloper/Residium/blob/master/13.png)
