@@ -1,5 +1,5 @@
 # Residium
-Video streaming / VoIP Calls  / Smart Home / UIKit / PEEK & POP / Multiple windows support / iPad & iPhone / Chat / Home Screen Quick Actions
+Video streaming H264 + Motion JPEG / VoIP Calls  / Smart Home / UIKit / PEEK & POP / Multiple windows support / iPad & iPhone / Chat / Home Screen Quick Actions
 https://www.residium.com / https://www.callom.com / Copyright (c) 2020 Callom. All rights reserved.
 
 ![Dashboard](https://github.com/alexroemerdeveloper/Residium/blob/master/07.png)
